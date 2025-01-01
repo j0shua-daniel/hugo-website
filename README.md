@@ -9,6 +9,7 @@ The [vm-mgr](https://github.com/j0shua-daniel/vm-mgr) [website](https://jr-om-cs
 Specs of raspberry pi:
 ```
 $ neofetch --off
+
 yehoshua@pi 
 ----------- 
 OS: Debian GNU/Linux 12 (bookworm) aarch64 
