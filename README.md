@@ -24,7 +24,6 @@ Swap: 104.39 MiB / 512.00 MiB (20%)
 Disk (/): 4.05 GiB / 28.71 GiB (14%) - ext4
 Local IP (wlan0): 192.168.1.53/24
 Locale: en_GB.UTF-8
-
 ```
 
 This Website is running on my raspberry pi zero 2w.
