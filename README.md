@@ -7,9 +7,8 @@ The [vm-mgr](https://github.com/j0shua-daniel/vm-mgr) [website](https://jr-om-cs
 ## About
 
 Specs of raspberry pi:
-```
-$ neofetch --off
 
+```
 OS: Debian GNU/Linux bookworm 12.8 aarch64
 Host: Raspberry Pi Zero 2 W Rev 1.0
 Kernel: Linux 6.6.62+rpt-rpi-v8
