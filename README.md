@@ -5,6 +5,7 @@ The [vm-mgr](https://github.com/j0shua-daniel/vm-mgr) [website](https://jr-om-cs
 ## About
 This Website is running on my raspberry pi zero 2w.
 What i used:
+
 • [Hugo](https://gohugo.io) - For making the website.
 
 • [Hugo Coder](https://github.com/luizdepra/hugo-coder/) -The cool theme.
