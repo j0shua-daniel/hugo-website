@@ -10,17 +10,21 @@ Specs of raspberry pi:
 ```
 $ neofetch --off
 
-yehoshua@pi 
------------ 
-OS: Debian GNU/Linux 12 (bookworm) aarch64 
-Host: Raspberry Pi Zero 2 W Rev 1.0 
-Kernel: 6.6.62+rpt-rpi-v8 
-Uptime: 5 hours, 29 mins 
-Packages: 733 (dpkg), 8 (nix-user), 52 (nix-default) 
-Shell: bash 5.2.15 
-Terminal: /dev/pts/4 
-CPU: (4) @ 1.300GHz 
-Memory: 124MiB / 416MiB 
+OS: Debian GNU/Linux bookworm 12.8 aarch64
+Host: Raspberry Pi Zero 2 W Rev 1.0
+Kernel: Linux 6.6.62+rpt-rpi-v8
+Uptime: 5 hours, 30 mins
+Packages: 733 (dpkg), 5 (nix-user), 48 (nix-default)
+Shell: bash 5.2.15
+Terminal: /dev/pts/4
+CPU: BCM2837 (4) @ 1.30 GHz
+GPU: Broadcom bcm2835-vc4 [Integrated]
+Memory: 185.42 MiB / 416.92 MiB (44%)
+Swap: 104.39 MiB / 512.00 MiB (20%)
+Disk (/): 4.05 GiB / 28.71 GiB (14%) - ext4
+Local IP (wlan0): 192.168.1.53/24
+Locale: en_GB.UTF-8
+
 
 ```
 
