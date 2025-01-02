@@ -6,6 +6,8 @@ The [vm-mgr](https://github.com/j0shua-daniel/vm-mgr) [website](https://jr-om-cs
 
 ## About
 
+This website may go down, and links may change!
+
 Specs of raspberry pi:
 
 ```
