@@ -1,6 +1,6 @@
 # Hugo-website
 
-The [vm-mgr](https://github.com/j0shua-daniel/vm-mgr) [website](https://jr-om-cs-try.trycloudflare.com/) is all up and running!
+The [vm-mgr](https://github.com/j0shua-daniel/vm-mgr) [website](https://jr-om-cs-try.trycloudflare.com/) is DOWN! Trying to fix what ever happend to my pi! 
 
 ![img](https://github.com/j0shua-daniel/images/blob/main/Screenshot%202025-01-01%20at%2009-29-08%20VM%20Manager.png)
 
