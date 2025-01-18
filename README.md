@@ -1,6 +1,6 @@
 # Hugo-website
 
-The [vm-mgr](https://github.com/j0shua-daniel/vm-mgr) [website](https://coalition-friends-affairs-wages.trycloudflare.com/) is UP!
+The [vm-mgr](https://github.com/j0shua-daniel/vm-mgr) [website](https://luke-gardening-ver-total.trycloudflare.com/) is UP!
 
 ![img](https://github.com/j0shua-daniel/images/blob/main/Screenshot%202025-01-01%20at%2009-29-08%20VM%20Manager.png)
 
